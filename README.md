@@ -82,7 +82,10 @@ Introduzir ao versionamento de código com Git e GitHub.
       <span>Desenvolvedora Front-end</span>
     </td>
 
-          <td>
+  </tr>
+
+ <tr>
+    <td>
       <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
     </td>
     <td align="left">
@@ -93,6 +96,8 @@ Introduzir ao versionamento de código com Git e GitHub.
       <br>
       <span>Desenvolvedora Front-end</span>
     </td>
+
+ 
   </tr>
 
     
