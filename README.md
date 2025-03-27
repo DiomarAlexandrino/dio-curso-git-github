@@ -67,10 +67,11 @@ Introduzir ao versionamento de código com Git e GitHub.
   <tfoot></tfoot>
 </table>
 
-## Instrutora
+
 <table>
   <tr>
     <td>
+        ## Instrutora
       <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
     </td>
     <td align="left">
@@ -87,6 +88,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 e"/>
     </td>
     <td align="left">
+        ## Aluno
       <a href="https://github.com/DiomarAlexandrino">
         <span><b>Diomar Alexandrino
     </b></span>
