@@ -81,7 +81,21 @@ Introduzir ao versionamento de código com Git e GitHub.
       <br>
       <span>Desenvolvedora Front-end</span>
     </td>
+
+          <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/elidianaandrade">
+        <span><b>Elidiana Andrade
+</b></span>
+      </a>
+      <br>
+      <span>Desenvolvedora Front-end</span>
+    </td>
   </tr>
+
+    
 </table>
 
 ## Referências
