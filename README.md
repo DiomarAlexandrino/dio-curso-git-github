@@ -91,7 +91,7 @@ Introduzir ao versionamento de código com Git e GitHub.
     </b></span>
       </a>
       <br>
-      <span>Desenvolvedora Front-end</span>
+      <span>Desenvolvedor FullStak</span>
     </td>
  
   </tr>
