@@ -83,7 +83,7 @@ Introduzir ao versionamento de código com Git e GitHub.
     </td>
 
  <td>
-      <img width="80px" align="center" src="![boneco Diomar](https://github.com/user-attachments/assets/2a10cb9c-e4d4-42f2-b481-6f7e60702e57)
+      <img width="80px" align="center" src="https://github.com/user-attachments/assets/2a10cb9c-e4d4-42f2-b481-6f7e60702e57"
 e"/>
     </td>
     <td align="left">
